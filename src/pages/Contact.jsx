@@ -174,7 +174,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://github.com/HaizUber"
+            href="https://github.com/CGMejia2001"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
