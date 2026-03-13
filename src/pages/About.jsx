@@ -168,8 +168,8 @@ IT graduate and former junior systems developer with hands-on experience designi
     },
     {
       icon: <BookOpen className="w-6 h-6 text-blue-500" />,
-      title: "Continuous Learning",
-      desc: "Expanding skills and adapting to new technologies to stay ahead in the ever-evolving tech landscape.",
+      title: "Quality Assurance",
+      desc: "Manual test cases, functional and regression testing, and edge case validation to ensure reliable software.",
     },
   ];
 
