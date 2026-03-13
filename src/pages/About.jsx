@@ -147,7 +147,7 @@ export default function About() {
   };
 
   const aboutCopy = `
-Motivated IT professional specializing in web and mobile application development. Skilled in building responsive web applications and database-driven systems. Eager to apply academic knowledge and hands-on project experience to contribute to innovative technology solutions.
+IT graduate and former junior systems developer with hands-on experience designing, deploying and supporting web-based systems used in academic and administrative environments. Experienced in PHP, JavaScript, React, and database-driven applications, with additional experience in software testing including manual testing, functional testing, and regression testing to ensure system reliability and quality. Seeking entry-level roles in Quality Assurance, system support, or web development.
   `.trim();
 
   const services = [
