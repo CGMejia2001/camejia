@@ -147,7 +147,7 @@ export default function About() {
   };
 
   const aboutCopy = `
-IT graduate and former junior systems developer with hands-on experience designing, deploying and supporting web-based systems used in academic and administrative environments. Experienced in PHP, JavaScript, React, and database-driven applications, with additional experience in software testing including manual testing, functional testing, and regression testing to ensure system reliability and quality. Seeking entry-level roles in Quality Assurance, system support, or web development.
+IT graduate and former Junior Systems Developer with hands-on experience designing, deploying, and supporting web-based systems used in academic and administrative environments. Proficient in PHP, JavaScript, React, and database-driven applications. Experienced in software testing practices including manual, functional, and regression testing to ensure system reliability and quality. Seeking opportunities in Quality Assurance, system support, or web development.
   `.trim();
 
   const services = [
